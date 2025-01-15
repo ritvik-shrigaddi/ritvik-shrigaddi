@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritvik Shrigaddi.
 - 👀 I’m interested in Development and doing something productive.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate to people who are interested in Development.
 - 📫 How to reach me DM me on ig:-honestly_ritvik.
 - 😄 Pronouns: he/him
